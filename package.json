@@ -1,0 +1,1 @@
+{"description":"make.fun Ship It Friday entry: the funniest one-line git commit message an AI coding agent writes right before breaking production on a Friday.","license":"MIT","main":"main.ts","name":"u-mgwals-ship-it-friday-30bd407a-entry","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
